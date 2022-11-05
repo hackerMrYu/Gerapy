@@ -20,7 +20,7 @@
     "js-cookie": "^2.2.1",
     "node-sass": "^4.12.0",
     "path": "^0.12.7",
-    "sass-loader": "^8.0.0",
+    "sass-loader": "^9.0.0",
     "string-format-obj": "^1.1.1",
     "svgo": "^1.3.0",
     "timezone-support": "^2.0.2",
